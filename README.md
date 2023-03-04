@@ -1,8 +1,6 @@
-```
+Olá, Bem vindo ao meu projeto de portfólio.
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-## Ferramentas utilizadas:
+Ferramentas utilizadas:
 
 * HTML
 
@@ -10,10 +8,6 @@
 
 * Flex-box
 
-## Feito por:
+Feito por: João Rafael
 
-### João Rafael
-
-### Linkedin: https://www.linkedin.com/in/joaorafaelvra/
-
-```
+Linkedin: https://www.linkedin.com/in/joaorafaelvra/
