@@ -1,4 +1,5 @@
-Olá, Bem vindo ao meu projeto de portfólio.
+<h1> Olá, Bem vindo ao meu projeto de portfólio. </h1>
+
 
 Ferramentas utilizadas:
 
@@ -8,6 +9,8 @@ Ferramentas utilizadas:
 
 * Flex-box
 
+```
 Feito por: João Rafael
 
 Linkedin: https://www.linkedin.com/in/joaorafaelvra/
+```
