@@ -10,7 +10,7 @@ Ferramentas utilizadas:
 * Flex-box
 
 ```
-Feito por: João Rafael
+Feito por: João Rafael de Almeida
 
 Linkedin: https://www.linkedin.com/in/joaorafaelvra/
 ```
